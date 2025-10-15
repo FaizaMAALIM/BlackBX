@@ -2,8 +2,8 @@
   "version": "2.5.0",
   "summary": {
     "title": "Menaces Threat Model",
-    "owner": "",
-    "description": "",
+    "owner": "Faiza MAALIM",
+    "description": "Web app React connectée à Supabase (base de données + stockage de fichiers)",
     "id": 0
   },
   "detail": {
